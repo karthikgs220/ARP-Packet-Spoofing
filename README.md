@@ -1,4 +1,4 @@
-# ARP-Spoofing
+# ARP- Packet Spoofing
 
 The task is to write a Python 3 program that makes use of scapy to implement IP spoofing against a TCP server listening on a machine. 
 The implementation involves the spoofing from a virtual machine running under VirtualBox on the same host as the TCP server. 
